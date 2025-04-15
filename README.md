@@ -8,7 +8,6 @@ The version of browser is automatically configured by cypress. So, execute the f
  ``` 
  npm install
  ``` 
- to download the dependencies 
 
 ## **How to Use**
 To execute the automation, you can run the command:
